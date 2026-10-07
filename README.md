@@ -1,2 +1,2 @@
-# Yuigui
+# Yugui
 Yugui knowledge base
